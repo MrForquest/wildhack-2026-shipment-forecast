@@ -1,6 +1,6 @@
 # Shipments Without Downtime - Solution (Solo Track)
 
-*[Русская версия](README.ru.md)*
+[Русская версия](README.ru.md)
 
 My solution for the [WB Wildhack 2026: "Shipments Without Downtime"](https://wbspace.wb.ru/competitions/otgruzki-bez-prostoev) hackathon.
 
